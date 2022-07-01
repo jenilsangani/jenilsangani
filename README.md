@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><img src="https://raw.githubusercontent.com/JenilSangani/JenilSangani/main/assets/images/hello.gif" style="width:30px;height:30px"> Hello there, it's <a href="https://www.linkedin.com/in/manan-d-170987167">JenilSangani</a>!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/JenilSangani/JenilSangani/main/assets/images/hello.gif" style="width:30px;height:30px"> Hello there, it's <a href="https://www.linkedin.com/in/jenil-sangani-678538151/">JenilSangani</a>!</h1>
 
 ## Stack Overflow Stats
 <!-- <details> -->
@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/19388079/jenil-sangani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/JenilSangani/JenilSangani/main/assets/svgs/stack-overflow.svg" alt="Jenil-Sangani" height="30" width="50" /></a>
 <a href="https://www.instagram.com/jenill0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/JenilSangani/JenilSangani/main/assets/svgs/instagram.svg" alt="Jenil-Sangani" height="30" width="50" /></a>
 </p>
-<p align="right">last updated on : <b>Jul 1, 2022 08:42 AM</b></p>
+<p align="right">last updated on : <b>Jul 1, 2022 10:31 AM</b></p>
